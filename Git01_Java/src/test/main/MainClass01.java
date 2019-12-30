@@ -7,5 +7,6 @@ public class MainClass01 {
 		System.out.println("made in lab1");
 		System.out.println("made in lab1 #2");
 		System.out.println("lab1 브렌치 hEllOlololo");
+		System.out.println("lab1 branch e so working...");
 	}
 }
