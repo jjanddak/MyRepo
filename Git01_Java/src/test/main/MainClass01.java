@@ -5,6 +5,7 @@ public class MainClass01 {
 		System.out.println("gura kim");
 		System.out.println("monkey");
 		System.out.println("made in lab1");
-		System.out.println("made in lab1 #2");		
+		System.out.println("made in lab1 #2");
+		System.out.println("master ㅂ렌치 Hellolololo");
 	}
 }
