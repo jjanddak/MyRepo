@@ -8,5 +8,6 @@ public class MainClass01 {
 		System.out.println("made in lab1 #2");
 		System.out.println("master ㅂ렌치 Hellolololo");
 		System.out.println("lab1 브렌치 hEllOlololo");
+		System.out.println("master branch bye");
 	}
 }
