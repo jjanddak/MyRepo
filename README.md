@@ -12,8 +12,20 @@
 
 __zzzzz__
 
-??????????????
+```java 
+//code 작성공간
+int num=10;
+boolean isture=true;
+```
 
+```javascript
+var num=10;
+var char='c';
+var string="hello";
+function print(){
+console.log("hello");
+}
 ```
-code 작성공간
-```
+
+> block quote
+
